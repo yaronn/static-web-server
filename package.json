@@ -2,6 +2,6 @@
   "name": "static-web-server",
   "version": "0.0.1",
   "dependencies": {
-    "express": "~2.5.9"
+    "express": "~3.0.0"
   }
 }
